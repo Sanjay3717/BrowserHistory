@@ -1,0 +1,23 @@
+.top-container {
+  background-color: #3367d6;
+  height: 100px;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-right: 100px;
+}
+.top-search-image {
+  border: 0px solid;
+  background-color: #2850a7;
+  padding: 5px;
+}
+.search-tab {
+  width: 400px;
+  margin-left: 2px;
+}
+.top-container-search {
+  display: flex;
+  justify-content: center;
+  margin-right: 200px;
+}
